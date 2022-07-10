@@ -32,10 +32,18 @@ Only LOT 3 has a variance of around 170 and therefore does not meet the requirem
 
 ![Alt text](/4.png "Image")
 
+While comparing the PSI values of all manufacturing lots it leads to a P-value of 0.06028, which is higher than the signficance level of 0.05. Consequently, there is not enough evidence to reject the null hypothesis. 
+
 ![Alt text](/5.png "Image")
+
+P-value 1 > 0.05 not enough evidence to reject the null hypothesis.
 
 ![Alt text](/6.png "Image")
 
+P-value 0.6072 > 0.05 not enough evidence to reject the null hypothesis.
+
 ![Alt text](/7.png "Image")
+
+P-value 0.04168 < 0.05 enough evidence to reject the null hypothesis.
 
 ## Study Design: MechaCar vs Competition
