@@ -16,6 +16,8 @@ Review the production data for insights that may help the manufacturing team.
   - This linear model predicts mpg of MechCar prototypes effectively due to the R-squared value of 0.7149. 
 
 ## Summary Statistics on Suspension Coils
+The mean PSI of the suspension coils is 1498.78 and has a variance of 62.29. Since the variance is less than 100, the current manufacturing data meet this design specification for all manufacturing lots in total.
+Only LOT 3 has a variance of around 170 and therefore does not meet the requirements. 
 
 ## T-Tests on Suspension Coils
 
