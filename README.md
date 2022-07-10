@@ -47,3 +47,15 @@ P-value 0.6072 > 0.05 not enough evidence to reject the null hypothesis.
 P-value 0.04168 < 0.05 enough evidence to reject the null hypothesis.
 
 ## Study Design: MechaCar vs Competition
+What metric or metrics are you going to test?
+- Fuel efficiency 
+- Type of commute (City or rural)
+
+What is the null hypothesis or alternative hypothesis?
+- Fuel efficiency increases with highway usage. 
+
+What statistical test would you use to test the hypothesis? And why?
+-T test because of the comparison of the means fo the group. 
+
+What data is needed to run the statistical test?
+- Fuel efficiency data and "type of cummute" data is necessary to run the statistical test.
