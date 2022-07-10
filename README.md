@@ -52,7 +52,7 @@ What metric or metrics are you going to test?
 - Type of commute (City or rural)
 
 What is the null hypothesis or alternative hypothesis?
-- Fuel efficiency increases with highway usage. 
+- Fuel efficiency increases in rural commute usage. 
 
 What statistical test would you use to test the hypothesis? And why?
 - T test because of the comparison of the means fo the group. 
