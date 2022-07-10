@@ -55,7 +55,7 @@ What is the null hypothesis or alternative hypothesis?
 - Fuel efficiency increases in rural commute. 
 
 What statistical test would you use to test the hypothesis? And why?
-- T test because of the comparison of the means fo the group. 
+- T test because of the comparison of the means of the group. 
 
 What data is needed to run the statistical test?
 - Fuel efficiency data and "type of cummute" data is necessary to run the statistical test.
