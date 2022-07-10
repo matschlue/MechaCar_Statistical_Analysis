@@ -30,4 +30,12 @@ Only LOT 3 has a variance of around 170 and therefore does not meet the requirem
 
 ## T-Tests on Suspension Coils
 
+![Alt text](/4.png "Image")
+
+![Alt text](/5.png "Image")
+
+![Alt text](/6.png "Image")
+
+![Alt text](/7.png "Image")
+
 ## Study Design: MechaCar vs Competition
